@@ -17,7 +17,6 @@
 </div><br/>
 
 ![ricardosguimaraes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardosguimaraes&theme=dracula&hide_border=true)
-![ricardosguimaraes's Stats](https://github-readme-stats.vercel.app/api?username=ricardosguimaraes&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br>
 ![ricardosguimaraes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosguimaraes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
